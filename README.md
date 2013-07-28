@@ -1,4 +1,4 @@
-tweetget
+tweetget-cli
 ========
 
 Print a twitter stream to stdout or stream to a log file called tweets.txt.
